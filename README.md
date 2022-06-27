@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kahmunng
-- 👀 I’m interested in myself
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in myself only
+- 🌱 I’m currently self learning programming
 - 💞️ I’m looking to collaborate on ???
-- 📫 No one can reach me 
+- 📫 Don't even try to reach me. I'll bite
 
 <!---
 kahmunng/kahmunng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
